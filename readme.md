@@ -74,6 +74,3 @@ This means that \( F(x_k) \) represents the cumulative proportion for the \( k \
 3. **Visualizing the ECDF:**
    - The x-axis represents the sorted data points, and the y-axis represents the cumulative probabilities, forming a step-like graph.
 
----
-
-Use ECDF to analyze data distributions, compare datasets, and improve visual insights into statistical patterns.
